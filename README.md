@@ -1,4 +1,4 @@
-TinDog - a Tinder parady.
+TinDog - a Tinder parody.
 
 Uses HTML5, CSS, and BootStrap 4
 
